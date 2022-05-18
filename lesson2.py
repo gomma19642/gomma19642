@@ -8,8 +8,12 @@ favouriteFood = "rice"
 my_first_name = "mathew"
 my_seond_name = "murithi"
 schoolAttended = "nairobi school"
-print(" I am " + my_first_name)
+print(" I am " + str(my_first_name))
 print(" i am " + str(age) + " years old ")
+print("i attended" + str(schoolAttended))
+print("i was born in" + str(dateofBirth))
+print("i was born in the year" +str(yearofBirth))
+print("my favourite food is" +str(favouriteFood))
 
 
 
